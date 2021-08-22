@@ -8,6 +8,8 @@ In a production project, you want to add :
 - password verification during registration (size, complexity, checked against a blacklist)
 - modify back-end to return registration date as timestamp
 
+The directory structure (js, css, fonts, favicons) for the French Government Design System was put in `src` as instructed on the developer documentation.
+
 ## Setup
 
 Install dependencies :
