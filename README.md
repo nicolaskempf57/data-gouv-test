@@ -36,3 +36,5 @@ this file must be copied to `src/config.js`.
 ```sh
 cp src/config.example.js src/config.js
 ```
+
+On a local environment, the default BASE_URL is `http://localhost:5000/api/`.
